@@ -64,7 +64,7 @@ Recommend movies that are **semantically similar** to the movie selected by the 
 
 ## 📸 Project Preview
 
-![CineVision UI](https://github.com/virtual-arin/CineVision/blob/main/client/public/screenshot.png)
+![CineVision UI](https://github.com/neuralarin/CineVision/blob/main/client/public/screenshot.png)
 
 ---
 
