@@ -2,7 +2,7 @@
   
 -----
 
-## 🙂 Overview
+## 🙂 Overview  
 
 This project focuses on building a movie recommendation system using Natural Language Processing (NLP) and machine learning techniques. By analyzing movie descriptions, genres, and other metadata, I developed a content-based recommendation system that suggests movies similar to a user's selected title.
 
