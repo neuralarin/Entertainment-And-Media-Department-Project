@@ -7,7 +7,7 @@
 This project focuses on building a movie recommendation system using Natural Language Processing (NLP) and machine learning techniques. By analyzing movie descriptions, genres, and other metadata, I developed a content-based recommendation system that suggests movies similar to a user's selected title.
 
 *The goal is to improve content discovery, reduce search time, personalize recommendations based on movie similarities, and enhance the overall user experience.*
-
+  
 -----
 
 ## 💡 Problem Statement & Business Impact
